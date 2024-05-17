@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Yasin K. 👋
 
-<!--
-**EnderQuinn/EnderQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer currently learning Java, Spring, and SQL.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Spring Boot (Spring MVC, Spring Database)**
+- 💬 Ask me about **Java, Spring, and SQL**!
+- 📫 How to reach me: [ufukkanlioglu@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: Java, SQL
+- **Frameworks**: Spring Boot, Spring MVC, Spring Database
+- **Tools**: GitHub, IntelliJ IDEA
