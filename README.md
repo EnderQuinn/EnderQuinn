@@ -1,4 +1,4 @@
-# Hi there, I'm Yasin K. 👋
+# Hi there, I'm Yasin K.
 
 ## About Me
 I'm a passionate developer currently learning Java, Spring, and SQL.
